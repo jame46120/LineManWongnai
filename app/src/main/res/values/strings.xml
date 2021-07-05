@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LineManWongnai</string>
+    <string name="search">ค้นหา</string>
+    <string name="display_sample_text">Sample</string>
+</resources>
